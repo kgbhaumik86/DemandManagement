@@ -1,0 +1,1 @@
+export const BOBThemePrimaryColor = "#ff6633";
